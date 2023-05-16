@@ -123,7 +123,7 @@ void hubFunction(int option)
     }while(option != 5);
 }
 
-int main()
+int main(int argc, char const *argv[])
 {
     top = NULL;
 
