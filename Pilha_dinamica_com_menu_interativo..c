@@ -89,7 +89,7 @@ void menu()
     printf("5 - Sair do programa\n");
 }
 
-void switchfunction(int option)
+void hubFunction(int option)
 {
     do
     {
@@ -129,7 +129,7 @@ int main()
 
     int option = 0;
     
-    switchfunction(option);
+    hubFunction(option);
 
     clear(); /*A função clear está aqui para limpar toda a pilha antes de sair do programa.*/
 
