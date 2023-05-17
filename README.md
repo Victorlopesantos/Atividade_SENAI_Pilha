@@ -1,7 +1,6 @@
 Pilha em C
 
 Este é um programa simples em C que implementa uma pilha utilizando uma lista encadeada. O programa permite empilhar e desempilhar elementos, exibir a pilha e limpar todos os elementos da pilha.
-Funcionalidades
 
 O programa oferece as seguintes funcionalidades:
 
